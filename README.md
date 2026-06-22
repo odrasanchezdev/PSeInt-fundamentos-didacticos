@@ -1,4 +1,4 @@
-# Practicas de algoritmos con PSeINT
+# Prácticas de algoritmos con PSeINT
 
 ## Descripción
 > Este repositorio contiene la resolución de ejercicios prácticos correspondientes al curso "Lógica de Programación" impartido por Sergio Alejandro Pérez Gabriel en Udemy. El objetivo principal es consolidar los fundamentos de la programación y el pensamiento algorítmico.
